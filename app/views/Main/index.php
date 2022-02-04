@@ -192,6 +192,7 @@
         <div class="resp-tabs-container">
             <!--/tab_one-->
             <?php if ($hits) : ?>
+                <?php $curr = \shop\App::$app->getProperty('currency'); ?>
                 <div class="tab">
                     <?php foreach ($hits as $hit) : ?>
                         <div class="col-md-3 product-men">
@@ -210,9 +211,9 @@
                                 <div class="item-info-product ">
                                     <h4><a href="product/<?= $hit->alias; ?>"><?= $hit->title; ?></a></h4>
                                     <div class="info-product-price">
-                                        <span class="item_price"><?= $hit->price ?></span>
+                                        <span class="item_price"><?= $curr['symbol_left']; ?><?= $hit->price * $curr['value']; ?><?= $curr['symbol_right']; ?></span>
                                         <?php if ($hit->old_price) : ?>
-                                            <del><?= $hit->old_price; ?></del>
+                                            <del><?= $curr['symbol_left']; ?><?= $hit->old_price * $curr['value']; ?><?= $curr['symbol_right']; ?></del>
                                         <?php endif; ?>
                                     </div>
                                 </div>

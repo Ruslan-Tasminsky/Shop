@@ -15,6 +15,7 @@ class ProductController extends AppController
        }
        $breadcrumbs = Breadcrumbs::getBreadcrumbs($product->category_id, $product->title);
        $gallery = \R::find('gallery', 'product_id = ?', [$product->id]);
-       $this->set(compact('product', 'breadcrumbs', 'gallery'));
+       $related = \R::getAll('SELECT * FROM related_product JOIN product ON product.id = related_product.related_id WHERE related_product.product_id = ?', [$product->id]);
+       $this->set(compact('product', 'breadcrumbs', 'gallery', 'related'));
    }
 }

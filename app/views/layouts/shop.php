@@ -50,7 +50,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!--//tags -->
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/font-awesome.css" rel="stylesheet">
 	<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css' />
 	<!-- //for bootstrap working -->
@@ -83,7 +82,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<!-- header-bot -->
 			<div class="col-md-4 logo_agile">
-				<h1><a href="index.html"><span>E</span>lite Shoppy <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
+				<h1><a href="<?= PATH; ?>"><span>E</span>lite Shoppy <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
 			</div>
 			<!-- header-bot -->
 			<div class="col-md-4 agileits-social top_content">
@@ -130,11 +129,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</button>
 						</div>
 						<!-- Collect the nav links, forms, and other content for toggling -->
-
 						<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav menu__list">
-								<!-- <li class="active menu__item menu__item--current"><a class="menu__link" href="index.html">Home <span class="sr-only">(current)</span></a></li>
-								<li class=" menu__item"><a class="menu__link" href="about.html">About</a></li> -->
 								<!-- <li class="dropdown menu__item">
 									<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Men's wear <span class="caret"></span></a>
 									<ul class="dropdown-menu multi-column columns-3">
@@ -167,55 +163,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 											<div class="clearfix"></div>
 										</div>
 									</ul>
-								</li> -->
-								<!-- <li class="dropdown menu__item">
-									<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Women's wear <span class="caret"></span></a>
-									<ul class="dropdown-menu multi-column columns-3">
-										<div class="agile_inner_drop_nav_info">
-											<div class="col-sm-3 multi-gd-img">
-												<ul class="multi-column-dropdown">
-													<li><a href="womens.html">Clothing</a></li>
-													<li><a href="womens.html">Wallets</a></li>
-													<li><a href="womens.html">Footwear</a></li>
-													<li><a href="womens.html">Watches</a></li>
-													<li><a href="womens.html">Accessories</a></li>
-													<li><a href="womens.html">Bags</a></li>
-													<li><a href="womens.html">Caps & Hats</a></li>
-												</ul>
-											</div>
-											<div class="col-sm-3 multi-gd-img">
-												<ul class="multi-column-dropdown">
-													<li><a href="womens.html">Jewellery</a></li>
-													<li><a href="womens.html">Sunglasses</a></li>
-													<li><a href="womens.html">Perfumes</a></li>
-													<li><a href="womens.html">Beauty</a></li>
-													<li><a href="womens.html">Shirts</a></li>
-													<li><a href="womens.html">Sunglasses</a></li>
-													<li><a href="womens.html">Swimwear</a></li>
-												</ul>
-											</div>
-											<div class="col-sm-6 multi-gd-img multi-gd-text ">
-												<a href="womens.html"><img src="images/top1.jpg" alt=" " /></a>
-											</div>
-											<div class="clearfix"></div>
-										</div>
-									</ul>
-								</li> -->
-								<select class="select-css">
-									<option>This is a native select element</option>
-									<option>Apples</option>
-									<option>Bananas</option>
-									<option>Grapes</option>
-									<option>Oranges</option>
-								</select>
+								</li>-->
 								<li class="menu__item dropdown">
-									<a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Account <b class="caret"></b></a>
+									<?php new \app\widgets\currency\Currency; ?>
+								</li>
+								<li class="menu__item dropdown">
+									<a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 									<ul class="dropdown-menu agile_short_dropdown">
-										<li><a href="user/login">LogIn</a></li>
-										<li><a href="user/signup">SignUp</a></li>
+										<li><a href="icons.html">Web Icons</a></li>
+										<li><a href="typography.html">Typography</a></li>
 									</ul>
 								</li>
-								<!-- <li class=" menu__item"><a class="menu__link" href="contact.html">Contact</a></li> -->
 							</ul>
 						</div>
 					</div>
@@ -223,12 +181,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<div class="top_nav_right">
 				<div class="wthreecartaits wthreecartaits2 cart cart box_1">
-					<form action="#" method="post" class="last">
-						<input type="hidden" name="cmd" value="_cart">
+					<form action="cart/show" method="post" class="last">
+						<input type="hidden" name="cmd" value="">
 						<input type="hidden" name="display" value="1">
 						<button class="w3view-cart" type="submit" name="submit" value=""><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></button>
 					</form>
-
 				</div>
 			</div>
 			<div class="clearfix"></div>
@@ -579,10 +536,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>
 	</div>
-	<!-- //login -->
-	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 
-	<!-- js -->
 	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 	<!-- //js -->
 	<script src="js/modernizr.custom.js"></script>
@@ -601,6 +555,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</script>
 
 	<!-- //cart-js -->
+	<!-- single -->
+	<script src="js/imagezoom.js"></script>
+	<!-- single -->
 	<!-- script for responsive tabs -->
 	<script src="js/easy-responsive-tabs.js"></script>
 	<script>
@@ -625,45 +582,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			});
 		});
 	</script>
-	<!-- //script for responsive tabs -->
-	<!-- stats -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<script src="js/jquery.countup.js"></script>
+	<!-- FlexSlider -->
+	<script src="js/jquery.flexslider.js"></script>
 	<script>
-		$('.counter').countUp();
-	</script>
-	<!-- //stats -->
-	<!-- start-smoth-scrolling -->
-	<script type="text/javascript" src="js/move-top.js"></script>
-	<script type="text/javascript" src="js/jquery.easing.min.js"></script>
-	<script type="text/javascript">
-		jQuery(document).ready(function($) {
-			$(".scroll").click(function(event) {
-				event.preventDefault();
-				$('html,body').animate({
-					scrollTop: $(this.hash).offset().top
-				}, 1000);
+		// Can also be used with $(document).ready()
+		$(window).load(function() {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				controlNav: "thumbnails"
 			});
 		});
 	</script>
-	<!-- here stars scrolling icon -->
-	<script type="text/javascript">
-		$(document).ready(function() {
-			/*
-				var defaults = {
-				containerID: 'toTop', // fading element id
-				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear' 
-				};
-			*/
-
-			$().UItoTop({
-				easingType: 'easeOutQuart'
-			});
-
-		});
-	</script>
+	<!-- //login -->
+	<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<!-- js -->
 	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 	<!-- //js -->
 	<script src="js/modernizr.custom.js"></script>
@@ -754,11 +686,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		});
 	</script>
 	<!-- //here ends scrolling icon -->
-
-	<!-- for bootstrap working -->
-	<script type="text/javascript" src="js/bootstrap.js"></script>
-	<!-- //here ends scrolling icon -->
-
 
 	<!-- for bootstrap working -->
 	<script type="text/javascript" src="js/bootstrap.js"></script>
