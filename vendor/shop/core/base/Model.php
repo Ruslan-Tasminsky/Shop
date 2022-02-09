@@ -5,7 +5,7 @@ namespace shop\base;
 use shop\Db;
 use Valitron\Validator;
 
-class Modal
+class Model
 {
     public $attributes = [];
     public $rules = [];

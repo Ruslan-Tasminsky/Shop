@@ -216,13 +216,28 @@
                                             <del><?= $curr['symbol_left']; ?><?= $hit->old_price * $curr['value']; ?><?= $curr['symbol_right']; ?></del>
                                         <?php endif; ?>
                                     </div>
+                                    <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
+                                        <form action="cart/add?id=<?= $hit->id; ?>" method="post">
+                                            <fieldset>
+                                                <input type="submit" name="submit" value="Add to cart" id="cart" class="button" />
+                                            </fieldset>
+                                        </form>
+                                    </div>
                                 </div>
+
                             </div>
                         </div>
                     <?php endforeach; ?>
                     <div class="clearfix"></div>
                 </div>
             <?php endif; ?>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
+                <form action="all" method="post">
+                    <fieldset>
+                        <input type="submit" name="submit" value="All products" class="button" />
+                    </fieldset>
+                </form>
+            </div>
             <!--//tab_one-->
             <!--/tab_two-->
         </div>
@@ -230,13 +245,14 @@
 </div>
 
 
+
 <!-- //new_arrivals -->
 <!-- /we-offer -->
 <div class="sale-w3ls">
     <div class="container">
-        <h6>We Offer Flat <span>40%</span> Discount</h6>
+        <h6>Shop now </h6>
 
-        <a class="hvr-outline-out button2" href="single.html">Shop Now </a>
+        <a class="hvr-outline-out button2" href="all">All products </a>
     </div>
 </div>
 <!-- //we-offer -->

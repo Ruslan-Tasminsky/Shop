@@ -3086,3 +3086,219 @@
 =================
 [2022-02-04 14:34:12] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
 =================
+[2022-02-07 09:51:32] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:42:05] Message: Undefined index: parent_id | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 74 
+=================
+[2022-02-07 15:44:32] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:44:39] Message: Undefined index: parent_id | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 74 
+=================
+[2022-02-07 15:44:40] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:46:10] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:46:11] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:46:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:46:40] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:46:54] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:46:54] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-07 15:48:12] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:13] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:13] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:17] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:19] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:34] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:35] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:36] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:37] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:37] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:37] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:37] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:38] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:38] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:38] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:38] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:38] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:39] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:40] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:40] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:48:40] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:02] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:03] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:04] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:04] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:05] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:06] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:06] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:31] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:32] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:49:32] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 30 
+=================
+[2022-02-07 15:50:26] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 31 
+=================
+[2022-02-07 15:50:27] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 31 
+=================
+[2022-02-07 15:51:03] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 71 
+=================
+[2022-02-07 15:51:04] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 71 
+=================
+[2022-02-07 15:52:49] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:53:07] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:53:09] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:53:10] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:38] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:38] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:39] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:39] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:39] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:39] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:40] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:40] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:40] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:41] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-07 15:54:42] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-08 09:44:59] Message: require(E:\OpenServer\domains\practice/app/menu/menu_tpl/menu.php): failed to open stream: No such file or directory | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 139 
+=================
+[2022-02-08 09:45:01] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-08 10:24:04] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 71 
+=================
+[2022-02-08 10:26:50] Message: Invalid argument supplied for foreach() | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 71 
+=================
+[2022-02-08 11:50:58] Message: Undefined index: parent_id | File: E:\OpenServer\domains\practice\app\widgets\menu\Menu.php, Line: 76 
+=================
+[2022-02-08 13:04:56] Message: Controller app\controllers\CategoryController not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 37 
+=================
+[2022-02-08 13:06:43] Message: Controller app\controllers\CategoryController not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 37 
+=================
+[2022-02-08 13:06:53] Message: Action app\controllers\CategoryController::viewAction not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 34 
+=================
+[2022-02-08 13:37:56] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:47] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:48] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:49] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:49] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:49] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:49] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:50] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:50] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:50] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:50] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:38:50] Message: Illegal string offset 'men' | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 13 
+=================
+[2022-02-08 13:40:17] Message: Class 'app\modal\Breadcrumbs' not found | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 17 
+=================
+[2022-02-08 13:40:20] Message: Class 'app\modal\Breadcrumbs' not found | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 17 
+=================
+[2022-02-08 13:40:35] Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' | File: E:\OpenServer\domains\practice\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php, Line: 206 
+=================
+[2022-02-08 13:40:38] Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' | File: E:\OpenServer\domains\practice\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php, Line: 206 
+=================
+[2022-02-08 13:40:39] Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' | File: E:\OpenServer\domains\practice\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php, Line: 206 
+=================
+[2022-02-08 14:46:10] Message: Category mehanicheskie not found | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 15 
+=================
+[2022-02-08 15:08:28] Message: Category mehanicheskie not found | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 15 
+=================
+[2022-02-08 15:09:28] Message: Class 'app\modal\Breadcrumbs' not found | File: E:\OpenServer\domains\practice\app\controllers\ProductController.php, Line: 17 
+=================
+[2022-02-08 16:55:41] Message: Class 'app\modal\Cart' not found | File: E:\OpenServer\domains\practice\app\controllers\CurrencyController.php, Line: 17 
+=================
+[2022-02-08 16:58:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-08 17:08:36] Message: Undefined variable: product | File: E:\OpenServer\domains\practice\app\views\Main\index.php, Line: 221 
+=================
+[2022-02-08 17:22:31] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-08 17:24:39] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 10:29:09] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 10:32:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 10:39:43] Message: Uninitialized string offset: 1 | File: E:\OpenServer\domains\practice\app\widgets\filter\Filter.php, Line: 55 
+=================
+[2022-02-09 10:44:37] Message: Undefined variable: checked | File: E:\OpenServer\domains\practice\app\widgets\filter\filter_tpl.php, Line: 16 
+=================
+[2022-02-09 10:44:39] Message: Undefined variable: checked | File: E:\OpenServer\domains\practice\app\widgets\filter\filter_tpl.php, Line: 16 
+=================
+[2022-02-09 10:46:33] Message: Undefined variable: checked | File: E:\OpenServer\domains\practice\app\widgets\filter\filter_tpl.php, Line: 16 
+=================
+[2022-02-09 10:46:35] Message: Undefined variable: checked | File: E:\OpenServer\domains\practice\app\widgets\filter\filter_tpl.php, Line: 16 
+=================
+[2022-02-09 11:21:43] Message: Action app\controllers\CategoryController::indexAction not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 34 
+=================
+[2022-02-09 11:26:57] Message: Category all not found | File: E:\OpenServer\domains\practice\app\controllers\CategoryController.php, Line: 15 
+=================
+[2022-02-09 11:29:32] Message: Undefined variable: breadcrumbs | File: E:\OpenServer\domains\practice\app\views\All\index.php, Line: 7 
+=================

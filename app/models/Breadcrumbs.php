@@ -1,10 +1,10 @@
 <?php
 
-namespace app\modal;
+namespace app\models;
 
 use shop\App;
 
-class Breadcrumbs extends AppModal
+class Breadcrumbs extends AppModel
 {
     public static function getBreadcrumbs($category_id, $name = '')
     {

@@ -1,10 +1,11 @@
 <?php
 
-function debug($name)
+function debug($name, $die = false)
 {
     echo '<pre>';
     print_r($name);
     echo '</pre>';
+    if ($die) die;
 }
 function redirect($http = false)
 {

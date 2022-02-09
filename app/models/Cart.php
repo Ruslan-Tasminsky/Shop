@@ -1,10 +1,10 @@
 <?php
 
-namespace app\modal;
+namespace app\models;
 
 use shop\App;
 
-class Cart extends AppModal
+class Cart extends AppModel
 {
     public function addToCart($product, $qty = 1)
     {

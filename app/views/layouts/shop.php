@@ -39,6 +39,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</script>
 	<!-- //tags -->
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 	<link href="css/font-awesome.css" rel="stylesheet">
 	<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css' />
@@ -128,42 +130,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<span class="icon-bar"></span>
 							</button>
 						</div>
+						<!-- <div class="col-sm-3 multi-gd-img"> -->
+
+						<!-- </div> -->
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
+
 							<ul class="nav navbar-nav menu__list">
-								<!-- <li class="dropdown menu__item">
-									<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Men's wear <span class="caret"></span></a>
-									<ul class="dropdown-menu multi-column columns-3">
-										<div class="agile_inner_drop_nav_info">
-											<div class="col-sm-6 multi-gd-img1 multi-gd-text ">
-												<a href="mens.html"><img src="images/top2.jpg" alt=" " /></a>
-											</div>
-											<div class="col-sm-3 multi-gd-img">
-												<ul class="multi-column-dropdown">
-													<li><a href="mens.html">Clothing</a></li>
-													<li><a href="mens.html">Wallets</a></li>
-													<li><a href="mens.html">Footwear</a></li>
-													<li><a href="mens.html">Watches</a></li>
-													<li><a href="mens.html">Accessories</a></li>
-													<li><a href="mens.html">Bags</a></li>
-													<li><a href="mens.html">Caps & Hats</a></li>
-												</ul>
-											</div>
-											<div class="col-sm-3 multi-gd-img">
-												<ul class="multi-column-dropdown">
-													<li><a href="mens.html">Jewellery</a></li>
-													<li><a href="mens.html">Sunglasses</a></li>
-													<li><a href="mens.html">Perfumes</a></li>
-													<li><a href="mens.html">Beauty</a></li>
-													<li><a href="mens.html">Shirts</a></li>
-													<li><a href="mens.html">Sunglasses</a></li>
-													<li><a href="mens.html">Swimwear</a></li>
-												</ul>
-											</div>
-											<div class="clearfix"></div>
-										</div>
-									</ul>
-								</li>-->
+
 								<li class="menu__item dropdown">
 									<?php new \app\widgets\currency\Currency; ?>
 								</li>
@@ -176,6 +150,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</li>
 							</ul>
 						</div>
+						<div class="menu-container">
+							<div class="menu">
+								<?php new \app\widgets\menu\Menu([
+									'tpl' => WWW . '/menu/menu.php',
+								]); ?>
+							</div>
+						</div>
+						<div class="clearfix"></div>
 					</div>
 				</nav>
 			</div>
@@ -688,7 +670,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!-- //here ends scrolling icon -->
 
 	<!-- for bootstrap working -->
+	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="megamenu/js/megamenu.js"></script>
 </body>
 
 </html>

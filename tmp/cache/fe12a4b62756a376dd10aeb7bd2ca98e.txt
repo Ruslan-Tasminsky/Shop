@@ -1,0 +1,31 @@
+a:2:{s:4:"data";s:873:"<li>
+    <a href="category/men">Men</a>
+            <ul>
+            <li>
+    <a href="category/top-mens">Top Mens</a>
+    </li><li>
+    <a href="category/bottom-mens">Bottom Mens</a>
+    </li><li>
+    <a href="category/footwear-mens">Footwear Mens</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/women">Women</a>
+            <ul>
+            <li>
+    <a href="category/top-womens">Top Womens</a>
+    </li><li>
+    <a href="category/bottom-womens">Bottom Womens</a>
+    </li><li>
+    <a href="category/footwear-womens">Footwear Womens</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/kids">Kids</a>
+    </li><li>
+    <a href="category/unisex">Unisex</a>
+            <ul>
+            <li>
+    <a href="category/bags">Bags</a>
+    </li><li>
+    <a href="category/watches">Watches</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1644399030;}

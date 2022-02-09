@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-use app\modal\Cart;
+use app\models\Cart;
 
 class CurrencyController extends AppController
 {

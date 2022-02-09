@@ -1,10 +1,10 @@
 <?php
 
-namespace app\modal;
+namespace app\models;
 
-use shop\base\Modal;
+use shop\base\Model;
 
-class AppModal extends Modal
+class AppModel extends Model
 {
     public static function createAlias($table, $field, $str, $id) 
     {
