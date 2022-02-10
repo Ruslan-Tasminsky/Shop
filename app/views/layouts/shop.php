@@ -60,19 +60,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </head>
 
 <body>
-	<!-- header -->
-	<!-- <div class="header" id="home">
-		<div class="container">
-			<ul>
-				<li> <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-unlock-alt" aria-hidden="true"></i> Sign In </a></li>
-				<li> <a href="#" data-toggle="modal" data-target="#myModal2"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sign Up </a></li>
-				<li><i class="fa fa-phone" aria-hidden="true"></i> Call : 01234567898</li>
-				<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com">info@example.com</a></li>
-			</ul>
-		</div>
-	</div> -->
-	<!-- //header -->
-	<!-- header-bot -->
 	<div class="header-bot">
 		<div class="header-bot_inner_wthreeinfo_header_mid">
 			<div class="col-md-4 header-middle">
@@ -84,7 +71,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<!-- header-bot -->
 			<div class="col-md-4 logo_agile">
-				<h1><a href="<?= PATH; ?>"><span>E</span>lite Shoppy <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
+				<?php $name = \shop\App::$app->getProperty('name'); ?>
+				<h1><a href="<?= PATH; ?>"><span><?= $name[0]; ?></span><?= $name[1]; ?> <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
 			</div>
 			<!-- header-bot -->
 			<div class="col-md-4 agileits-social top_content">
@@ -130,10 +118,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<span class="icon-bar"></span>
 							</button>
 						</div>
-						<!-- <div class="col-sm-3 multi-gd-img"> -->
-
-						<!-- </div> -->
-						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
 
 							<ul class="nav navbar-nav menu__list">
@@ -142,10 +126,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<?php new \app\widgets\currency\Currency; ?>
 								</li>
 								<li class="menu__item dropdown">
-									<a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
+									<a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Account <b class="caret"></b></a>
 									<ul class="dropdown-menu agile_short_dropdown">
-										<li><a href="icons.html">Web Icons</a></li>
-										<li><a href="typography.html">Typography</a></li>
+										<?php if (isset($_SESSION['user'])) : ?>
+											<li><a href="#">Hello, <?= h($_SESSION['user']['name']); ?></a></li>
+											<li><a href="user/logout">LogOut</a></li>
+										<?php else : ?>
+											<li><a href="user/signup">SignUp</a></li>
+											<li><a href="user/login">LogIn</a></li>
+										<?php endif; ?>
 									</ul>
 								</li>
 							</ul>
@@ -294,6 +283,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<!-- //Modal content-->
 		</div>
+	</div>
+	<div class="col-md-12">
+		<?php if (isset($_SESSION['error'])) : ?>
+			<div class="alert alert-danger">
+				<?php echo $_SESSION['error'];
+				unset($_SESSION['error']); ?>
+			</div>
+		<?php endif; ?>
+		<?php if (isset($_SESSION['success'])) : ?>
+			<div class="alert alert-success">
+				<?php echo $_SESSION['success'];
+				unset($_SESSION['success']); ?>
+			</div>
+		<?php endif; ?>
 	</div>
 	<!-- //Modal2 -->
 	<?= $content; ?>

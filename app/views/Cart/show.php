@@ -30,7 +30,6 @@
                                         <th>Title</th>
                                         <th>Price</th>
                                         <th>Qty</th>
-                                        <!-- <th><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></th> -->
                                         <th><a href="/cart/clear" class="glyphicon glyphicon-remove" aria-hidden="true"></span></a></th>
                                     </tr>
                                 </thead>

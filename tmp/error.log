@@ -3302,3 +3302,313 @@
 =================
 [2022-02-09 11:29:32] Message: Undefined variable: breadcrumbs | File: E:\OpenServer\domains\practice\app\views\All\index.php, Line: 7 
 =================
+[2022-02-09 15:05:47] Message: Undefined index: REQUEST_URL | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 83 
+=================
+[2022-02-09 15:06:15] Message: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | File: E:\OpenServer\domains\practice\app\views\Category\view.php, Line: 60 
+=================
+[2022-02-09 15:06:50] Message: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | File: E:\OpenServer\domains\practice\app\views\Category\view.php, Line: 62 
+=================
+[2022-02-09 15:06:51] Message: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | File: E:\OpenServer\domains\practice\app\views\Category\view.php, Line: 62 
+=================
+[2022-02-09 15:08:16] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:17] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:17] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:17] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:19] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:19] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:20] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Undefined property: shop\libs\Pagination::$currentPage | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 33 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:20] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:21] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:21] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:21] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:21] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:08:21] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:15] Message: Undefined property: shop\libs\Pagination::$uri | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 37 
+=================
+[2022-02-09 15:09:15] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:15] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:16] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Undefined property: shop\libs\Pagination::$uri | File: E:\OpenServer\domains\practice\vendor\shop\core\libs\Pagination.php, Line: 37 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 15:09:18] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 18:28:45] Message: Undefined variable: name | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 87 
+=================
+[2022-02-09 18:28:54] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-09 18:29:05] Message: Undefined variable: name | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 87 
+=================
+[2022-02-09 18:32:14] Message: Illegal string offset 'f' | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 87 
+=================
+[2022-02-09 18:36:32] Message: Array to string conversion | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 90 
+=================
+[2022-02-09 18:36:55] Message: Illegal string offset 'f' | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 87 
+=================
+[2022-02-09 18:36:57] Message: Illegal string offset 'f' | File: E:\OpenServer\domains\practice\app\views\layouts\shop.php, Line: 87 
+=================
+[2022-02-09 19:32:47] Message: Undefined index: succes | File: E:\OpenServer\domains\practice\app\views\User\signup.php, Line: 21 
+=================
+[2022-02-10 10:20:40] Message: Page not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 40 
+=================
+[2022-02-10 10:30:20] Message: Action app\controllers\UserController::loginAction not found | File: E:\OpenServer\domains\practice\vendor\shop\core\Router.php, Line: 34 
+=================
+[2022-02-10 11:49:21] Message: View E:\OpenServer\domains\practice/app/views/User/login.php not found | File: E:\OpenServer\domains\practice\vendor\shop\core\base\View.php, Line: 41 
+=================
+[2022-02-10 12:54:26] Message: View E:\OpenServer\domains\practice/app/views/Cart/checkout.php not found | File: E:\OpenServer\domains\practice\vendor\shop\core\base\View.php, Line: 41 
+=================
+[2022-02-10 13:02:30] Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Blue Track Pants, 20640),(1, 1, 1, Formal Blue Shirt, 7740)' at line 1 | File: E:\OpenServer\domains\practice\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php, Line: 206 
+=================
+[2022-02-10 13:04:39] Message: Failed to authenticate on SMTP server with username "developed.acc@gmail.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | File: E:\OpenServer\domains\practice\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php, Line: 191 
+=================
